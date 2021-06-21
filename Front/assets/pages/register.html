@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <title>LOGIN</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,500;1,300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../styles/main.css">
+</head>
+<body>
+    
+    <div class="login">
+        <h2 class="login__title">Register</h2>
+        <form id="form">
+            <div class="row">
+                <div class="col s4">
+                  <div class="row">
+                    <div class="input-field col s4">
+                        <input type="text" id="autocomplete-input" id="userIn" class="autocomplete user-name">
+                        <label for="autocomplete-input">Username</label>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col s4">
+                  <div class="row">
+                    <div class="input-field col s4">
+                        <input type="email" id="autocomplete-email" id="userpas" class="autocomplete user-email">
+                        <label for="autocomplete-email">Email</label>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col s4">
+                  <div class="row">
+                    <div class="input-field col s4">
+                        <input type="password" id="autocomplete-pas" id="userpas" class="autocomplete user-password">
+                        <label for="autocomplete-pas">Password</label>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <button type="submit" class="waves-effect waves-light btn-submit btn-large">Submit</button>
+        </form>
+
+        <a href="/login" class="login__link">Log In</a>
+
+    </div>
+    
+    <script src="../scripts/request.js"></script>
+    <script src="../scripts/register.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+</body>
+</html>

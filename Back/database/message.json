@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "message": "Hello world",
+        "userName": "Saidabror",
+        "date": "12:31"
+    },
+    {
+        "id": 2,
+        "message": "Hello",
+        "userName": "MuhammadHusayn",
+        "date": "14:15"
+    },
+    {
+        "id": 3,
+        "message": "nima gaap ?",
+        "userName": "abdukodirov",
+        "date": "14:15"
+    },
+    {
+        "id": 4,
+        "message": "Salom",
+        "userName": "Saidabror",
+        "date": "14:15"
+    },
+    {
+        "id": 5,
+        "message": "Salom",
+        "userName": "Jahongir",
+        "date": "14:16"
+    },
+    {
+        "id": 6,
+        "message": "Tinchlik",
+        "userName": "MuhammadHusayn",
+        "date": "14:16"
+    },
+    {
+        "id": 7,
+        "message": "fdfdfkkdjfk",
+        "userName": "Jahongir",
+        "date": "14:16"
+    },
+    {
+        "id": 8,
+        "message": "fdfdfkkdjfk",
+        "userName": "Jahongir",
+        "date": "14:16"
+    },
+    {
+        "id": 9,
+        "message": "someone is typing.....",
+        "userName": "abdukodirov",
+        "date": "14:16"
+    },
+    {
+        "id": 10,
+        "message": "Eeeeee yozish esdan chqbtiyu",
+        "userName": "Jahongir",
+        "date": "14:16"
+    },
+    {
+        "id": 11,
+        "message": "Hormelarrr",
+        "userName": "Khabibkhanov",
+        "date": "14:16"
+    },
+    {
+        "id": 12,
+        "message": "salamaleykum",
+        "userName": "umid",
+        "date": "14:16"
+    },
+    {
+        "id": 13,
+        "message": "nima gaplar",
+        "userName": "Jahongir",
+        "date": "14:18"
+    },
+    {
+        "id": 14,
+        "message": "gap yo zo'r chiqibti",
+        "userName": "hacker",
+        "date": "14:18"
+    },
+    {
+        "id": 15,
+        "message": "yigishtirib qoyvurish kere",
+        "userName": "Nizom aka",
+        "date": "14:24"
+    }
+]
